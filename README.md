@@ -4,7 +4,7 @@
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## test
+## test2
 
 ## ✨ Try it in your browser ✨
 
